@@ -1,0 +1,5 @@
+(+ 1 1)
+(ns 'ncl.karyotype.parse)
+(ns ''ncl.karyotype.parse)
+(ns ncl.karyotype.parse)
+(create-karyotype-string "46,XX")

@@ -1,0 +1,43 @@
+## This file was created by Tawny-OWL
+## It should not be edited by hand
+Prefix: base: <http://www.purl.org/ontolink/karyotype/base#>
+Prefix: evn: <http://www.purl.org/ontolink/karyotype/events#>
+Prefix: fea: <http://www.purl.org/ontolink/karyotype/features#>
+Prefix: hum: <http://www.purl.org/ontolink/karyotype/human#>
+Prefix: iex: <http://www.purl.org/ontolink/karyotype/iscnexamples#>
+Prefix: kar: <http://www.purl.org/ontolink/karyotype/karyotype#>
+Prefix: nmd: <http://www.purl.org/ontolink/karyotype/named#>
+Prefix: owl: <http://www.w3.org/2002/07/owl#>
+Prefix: par: <http://www.purl.org/ontolink/karyotype/parse#>
+Prefix: rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+Prefix: rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+Prefix: res: <http://www.purl.org/ontolink/karyotype/resolutions#>
+Prefix: rkar: <http://www.purl.org/ontolink/karyotype/random#>
+Prefix: xml: <http://www.w3.org/XML/1998/namespace>
+Prefix: xsd: <http://www.w3.org/2001/XMLSchema#>
+Prefix: : <http://www.purl.org/ontolink/karyotype/parse>
+
+
+
+Ontology: <http://www.purl.org/ontolink/karyotype/parse>
+
+
+Annotations: 
+    rdfs:comment "'Parse' ontology for Human Karyotype Ontology, written
+  using the tawny-owl library"@en
+
+AnnotationProperty: rdfs:comment
+
+    
+Datatype: rdf:PlainLiteral
+
+    
+Class: par:k46_XX_del_5__q13_q33_
+
+    
+Class: par:k46_XX_del_5__q__
+
+    
+Class: par:k46_Y_del_X__p21p21_
+
+    

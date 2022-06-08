@@ -1,0 +1,7 @@
+language: clojure
+lein: lein
+jdk:
+  - oraclejdk11
+notifications:
+   email:
+     - jaydchan@gmail.com
